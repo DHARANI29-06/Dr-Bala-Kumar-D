@@ -43,7 +43,7 @@ plt.show()
 ```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/7c1fa447-89eb-46f2-80d4-074423ac4eae)
-![image](https://github.com/user-attachments/assets/5cc633df-3b93-48e3-89f6-0f64ea9364df)
+![image](https://github.com/user-attachments/assets/7ad59a04-4a54-4f20-973c-2a5419c4c6b5)
 ![image](https://github.com/user-attachments/assets/d46df485-5654-4cc9-a732-35f924809cba)
 
 ## RESULT:
